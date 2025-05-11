@@ -1,0 +1,17 @@
+marks = []
+f1 = input("Enter marks hear:")
+marks.append(f1)
+f2= input("Enter marks hear:")
+marks.append(f1)
+f3 = input("Enter marks hear:")
+marks.append(f1)
+f4 = input("Enter marks hear:")
+marks.append(f1)
+f5 = input("Enter marks hear:")
+marks.append(f1)
+f6 = input("Enter marks hear:")
+marks.append(f1)
+f7 = input("Enter marks hear:")
+marks.append(f1)
+
+print(marks)
