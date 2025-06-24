@@ -21,3 +21,6 @@ sub_interval = int(input("Enter number of sub intervals: "))
 # Result
 result = trapezoidal(lower_limit, upper_limit, sub_interval)
 print("Integration result by Trapezoidal method is:", result)
+
+
+#
